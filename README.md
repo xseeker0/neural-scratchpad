@@ -20,3 +20,8 @@ The goal of this repository is not just to utilize libraries, but to understand 
     - **4.4 Segmentation** – Semantic and instance segmentation. (Coming soon...)
 - **Section 5: Natural Language Processing (NLP)** – Basic and advanced tasks in language processing. (Coming soon...)
 - **Section 6: Generative AI** – Exploring the world of Generative AI. (Coming soon...)
+- **Section 7: Multimodal Models & Complex Tasks**
+    - **7.1 Contrastive Learning (CLIP)** – Understanding the bridge between Vision and Language through Image-Text matching. (Coming soon...)
+    - **7.2 Vision-Language Models (VLM)** – Implementing End-to-End architectures (Coming soon...)
+    - **7.3 OCR**
+    - **7.4 Multimodal Generative Tasks** – Image Captioning and Visual Question Answering (VQA) on specialized datasets. (Coming soon...)

@@ -14,9 +14,9 @@ The goal of this repository is not just to utilize libraries, but to understand 
     - **3.3 Attention Mechanisms & Transformers** – The foundation of modern sequence modeling.
     - **3.4 Transfer Learning & Fine-tuning** – Leveraging pre-trained models for downstream tasks. (Coming soon...)
       **3.5 Graph Neural Networks (GNN)** – Learning on Non-Euclidean Data and Relational Structures. (Coming soon...)
-    - **3.5.1 Spectral Graph Convolutions** - Laplacian and  Graph Convolutional Networks (GCN). (Coming soon...)
-    - **3.5.2 Message Passing Neural Networks (MPNN)**. (Coming soon...)
-    - **3.5.3 Graph Attention Networks (GAT)** – Self-Attention In Graph. (Coming soon...)
+        - **3.5.1 Spectral Graph Convolutions** - Laplacian and  Graph Convolutional Networks (GCN). (Coming soon...)
+        - **3.5.2 Message Passing Neural Networks (MPNN)**. (Coming soon...)
+        - **3.5.3 Graph Attention Networks (GAT)** – Self-Attention In Graph. (Coming soon...)
 - **Section 4: Computer Vision (CV)**
     - **4.1 Classification** – Single and multi-label image categorization. (Coming soon...)
     - **4.2 Attention on Image (ViT)** – Implementing Vision Transformers and patches. 
@@ -38,7 +38,7 @@ The goal of this repository is not just to utilize libraries, but to understand 
     - **7.1 Contrastive Learning (CLIP)** – Understanding the bridge between Vision and Language through Image-Text matching. (Coming soon...)
     - **7.2 Vision-Language Models (VLM)** – Implementing End-to-End architectures (Coming soon...)
     - **7.3 OCR**
-    - **7.3.1 TrOCR**
+        - **7.3.1 TrOCR**
     - **7.4 Multimodal Generative Tasks** – Image Captioning and Visual Question Answering (VQA) on specialized datasets. (Coming soon...)
 - **Section 8: Reinforcement Learning (RL)**  (Coming soon...)
     - **8.1 Markov Decision Process (MDP)**. (Coming soon...)
